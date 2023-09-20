@@ -1,5 +1,5 @@
-# Repositório de Coleções Java
-Este repositório contém uma coleção de exemplos e implementações de estruturas de dados de coleção em Java, incluindo List, Map e Set. As coleções são componentes fundamentais no desenvolvimento de aplicativos Java, e este repositório foi criado para fornecer recursos e exemplos úteis para aprender sobre essas estruturas de dados.
+# Repositório de Collection Java
+Este repositório contém uma collections de exemplos e implementações de estruturas de dados de coleção em Java, incluindo List, Map e Set. As coleções são componentes fundamentais no desenvolvimento de aplicativos Java, e este repositório foi criado para fornecer recursos e exemplos úteis para aprender sobre essas estruturas de dados.
 
 # List
 A interface List é uma coleção ordenada que permite armazenar elementos duplicados. Neste repositório, você encontrará exemplos de como usar as implementações mais comuns da interface List, como ArrayList e LinkedList. Você também encontrará exemplos de operações comuns, como adicionar elementos, remover elementos, acessar elementos por índice e iterar por uma lista.
